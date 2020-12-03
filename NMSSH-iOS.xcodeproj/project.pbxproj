@@ -69,8 +69,8 @@
 		EA1E1E8A25797586003B045C /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A096D017D6AA7B008B76FB /* libcrypto.a */; };
 		EA1E1E8B25797586003B045C /* libssh2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A096D117D6AA7B008B76FB /* libssh2.a */; };
 		EA1E1E8C25797586003B045C /* libssl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A096D217D6AA7B008B76FB /* libssl.a */; };
-		EA1E1E9D2579773D003B045C /* libssh2_sftp.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9A2579773D003B045C /* libssh2_sftp.h */; };
-		EA1E1E9E2579773D003B045C /* libssh2_sftp.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9A2579773D003B045C /* libssh2_sftp.h */; };
+		EA1E1E9D2579773D003B045C /* libssh2_sftp.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9A2579773D003B045C /* libssh2_sftp.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA1E1E9E2579773D003B045C /* libssh2_sftp.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9A2579773D003B045C /* libssh2_sftp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA1E1E9F2579773D003B045C /* libssh2.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9B2579773D003B045C /* libssh2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA1E1EA02579773D003B045C /* libssh2.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9B2579773D003B045C /* libssh2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA1E1EA12579773D003B045C /* libssh2_publickey.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9C2579773D003B045C /* libssh2_publickey.h */; };
