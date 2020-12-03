@@ -18,8 +18,8 @@ let package = Package(
 	targets: [
  		.binaryTarget(
  			name: "NMSSH",
- 			url: "https://github.com/DwayneCoussement/NMSSH/releases/download/2.3.7/NMSSH.xcframework.zip",
- 			checksum: "df5134abd5fee19278235e399849b2c425b43084583180b70d7c91d1b4fc2fa5"
+ 			url: "https://github.com/DwayneCoussement/NMSSH/releases/download/2.3.8/NMSSH.xcframework.zip",
+ 			checksum: "16152b0f2b1f5deb2e5f06fd44c050b957f3c585d0ec4ec9da7c45089588df2d"
  		),
  	]
 )

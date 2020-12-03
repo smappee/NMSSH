@@ -1,5 +1,5 @@
 #import "NMSSH.h"
-
+#import "libssh2_sftp.h"
 /**
  The NMSFTPFile class provides an interface to store file attributes retrieved 
  from a SFTP host.
