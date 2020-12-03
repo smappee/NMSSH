@@ -73,8 +73,8 @@
 		EA1E1E9E2579773D003B045C /* libssh2_sftp.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9A2579773D003B045C /* libssh2_sftp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA1E1E9F2579773D003B045C /* libssh2.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9B2579773D003B045C /* libssh2.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EA1E1EA02579773D003B045C /* libssh2.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9B2579773D003B045C /* libssh2.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EA1E1EA12579773D003B045C /* libssh2_publickey.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9C2579773D003B045C /* libssh2_publickey.h */; };
-		EA1E1EA22579773D003B045C /* libssh2_publickey.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9C2579773D003B045C /* libssh2_publickey.h */; };
+		EA1E1EA12579773D003B045C /* libssh2_publickey.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9C2579773D003B045C /* libssh2_publickey.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA1E1EA22579773D003B045C /* libssh2_publickey.h in Headers */ = {isa = PBXBuildFile; fileRef = EA1E1E9C2579773D003B045C /* libssh2_publickey.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -275,8 +275,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA1E1EA22579773D003B045C /* libssh2_publickey.h in Headers */,
 				186CC9721B69117D00F674C4 /* NMSSH.h in Headers */,
+				EA1E1EA22579773D003B045C /* libssh2_publickey.h in Headers */,
 				186CC9751B69125400F674C4 /* NMSSHChannel.h in Headers */,
 				186CC9761B69125400F674C4 /* NMSFTP.h in Headers */,
 				186CC9771B69125400F674C4 /* NMSFTPFile.h in Headers */,
@@ -297,8 +297,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA1E1EA12579773D003B045C /* libssh2_publickey.h in Headers */,
 				18A0967117D6AA51008B76FB /* NMSFTP.h in Headers */,
+				EA1E1EA12579773D003B045C /* libssh2_publickey.h in Headers */,
 				E46F9E21188AC7010056E5DB /* NMSFTPFile.h in Headers */,
 				18A0967317D6AA51008B76FB /* NMSSH.h in Headers */,
 				18A0967417D6AA51008B76FB /* NMSSHChannel.h in Headers */,
